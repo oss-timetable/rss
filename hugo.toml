@@ -1,0 +1,7 @@
+baseURL = 'https://xzkd-project.github.io/rss'
+languageCode = 'en-us'
+title = 'RSS site for xzkd-project'
+theme = "papermod"
+[taxonomies]
+   tag = "tags"
+   category = "categories"
