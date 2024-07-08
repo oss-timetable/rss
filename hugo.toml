@@ -1,6 +1,6 @@
-baseURL = 'https://xzkd-project.github.io/rss'
+baseURL = 'https://oss-timetable.github.io/rss'
 languageCode = 'en-us'
-title = 'RSS site for xzkd-project'
+title = 'RSS site for oss-timetable'
 theme = "papermod"
 [taxonomies]
    tag = "tags"
